@@ -9,4 +9,4 @@ The ones that I intend to dig into in the future (probably winter 2019) are list
 3. Stuff I probably also want to revisit at some point are a few of the papers listed [here](https://kennyjoseph.github.io/cse702) from my second semester course on Applied NLP and Computational Social Science.
 
 
-### Note: This started out as a MOOC list but is turning into a to do list quite quick.
+##### Note: This started out as a MOOC list but is turning into a to do list quite quick.
