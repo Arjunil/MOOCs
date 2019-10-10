@@ -9,5 +9,6 @@ Finally get to [deployment](https://fullstackdeeplearning.com/)
 
 3. Stuff I probably also want to revisit at some point are a few of the papers listed [here](https://kennyjoseph.github.io/cse702) from my second semester course on Applied NLP and Computational Social Science.
 
+4. [Kaggle](https://www.kaggle.com/learn/overview)
 
 ##### Note: This started out as a MOOC list but is turning into a to do list quite quick.
