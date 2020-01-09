@@ -14,4 +14,6 @@ Finally get to [deployment](https://fullstackdeeplearning.com/)
 
 5. [AWS](https://tinyurl.com/rh5dpvx) : This needs vetting but I'm storing this here in case I forget.
 
+6. [spaCy](https://course.spacy.io/)
+
 ##### Note: This started out as a MOOC list but is turning into a to do list quite quick.
